@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Vishnu Vardhan Punati 😎 and I am a Computer Science Graduate from VIT-AP University 🏫
+I am a Computer Science Graduate from VIT-AP University 🏫
 I am an enthusiastic learner of legacy technology and aspiring to land a career in Networking and Security
 I am currently learning Asterisk , A PBX system used to do VOIP Phones and stuff 
 <!--
